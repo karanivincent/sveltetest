@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter testing jest with ts should render 1`] = `
+<body>
+  <div>
+    <div
+      class="counter svelte-ppn7h8"
+    >
+      <button
+        aria-label="Decrease the counter by one"
+        class="svelte-ppn7h8"
+      >
+        <svg
+          aria-hidden="true"
+          class="svelte-ppn7h8"
+          viewBox="0 0 1 1"
+        >
+          <path
+            class="svelte-ppn7h8"
+            d="M0,0.5 L1,0.5"
+          />
+        </svg>
+      </button>
+       
+      <div
+        class="counter-viewport svelte-ppn7h8"
+      >
+        <div
+          class="counter-digits svelte-ppn7h8"
+          style="transform: translate(0, 0%);"
+        >
+          <strong
+            aria-hidden="true"
+            class="hidden svelte-ppn7h8"
+          >
+            1
+          </strong>
+           
+          <strong
+            class="svelte-ppn7h8"
+          >
+            0
+          </strong>
+        </div>
+      </div>
+       
+      <button
+        aria-label="Increase the counter by one"
+        class="svelte-ppn7h8"
+      >
+        <svg
+          aria-hidden="true"
+          class="svelte-ppn7h8"
+          viewBox="0 0 1 1"
+        >
+          <path
+            class="svelte-ppn7h8"
+            d="M0,0.5 L1,0.5 M0.5,0 L0.5,1"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>
+</body>
+`;
